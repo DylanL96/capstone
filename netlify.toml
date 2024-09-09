@@ -1,6 +1,2 @@
 [build]
-publish = "build"
-functions = "functions"
-
-[dev]
-command = "flask run"
+  functions = "functions"
